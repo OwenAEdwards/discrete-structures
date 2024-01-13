@@ -65,7 +65,7 @@
 - Chapter 9.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to cryptography
 
 **Introduction to Counting (Ch10).pdf**
-- Chapter 10.12&nbsp;&nbsp;Counting problem examples
+- Chapter 10.12&nbsp;Counting problem examples
 
 **Advanced Counting (Ch11).pdf**
 - Chapter 11.3&nbsp;&nbsp;&nbsp;The pigeonhole principle
